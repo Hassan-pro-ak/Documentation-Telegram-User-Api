@@ -10,7 +10,7 @@
 
 **Advanced User Statistics & Analytics Platform**
 
-*Built with ❤️ by [@Sychox2006](https://t.me/Sychox2006)*
+*Built by [@Sychox2006](https://t.me/Sychox2006)*
 
 [🌐 Live Website](https://sychox2006-telegram-user-api.vercel.app) • [📞 Contact](https://t.me/Sychox2006) • [🚀 Quick Start](#quick-start)
 
@@ -87,17 +87,6 @@
 ```http
 https://sychox2006-telegram-user-api.vercel.app
 ```
-
-Authentication
-
-All endpoints require JWT token authentication in the request headers.
-
-```javascript
-headers: {
-  'Authorization': 'Bearer YOUR_JWT_TOKEN'
-}
-```
-
 Basic Usage
 
 ```javascript
@@ -282,7 +271,6 @@ api = UltimateAPI()
 user_stats = api.get_user_stats("5838583388")
 print(user_stats)
 ```
-
 PHP
 
 ```php
@@ -301,7 +289,9 @@ class UltimateAPI {
     }
 
     public function getSystemHealth() {
-        $url = $this->baseURL . "/api/system/health";
+        $url =
+
+$this->baseURL . "/api/system/health";
         $response = file_get_contents($url);
         return json_decode($response, true);
     }
@@ -313,7 +303,7 @@ $userStats = $api->getUserStats("5838583388");
 print_r($userStats);
 ?>
 ```
-📞 Support
+# 📞 Support
 
 <div align="center">
 
@@ -349,12 +339,9 @@ We're here to help you succeed with our API!
 
 </div>
 
-```
-
-📄 License
+```📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 <div align="center">
