@@ -1,4 +1,4 @@
-# 🚀 Ultimate API Pro
+# 🚀 Telegram User Search API
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 ```http
 https://sychox2006-telegram-user-api.vercel.app
 ```
-Basic Usage
+### Basic Usage
 
 ```javascript
 // Fetch user statistics
@@ -96,7 +96,7 @@ fetch('https://sychox2006-telegram-user-api.vercel.app/api/user-details?user=USE
   .then(data => console.log(data));
 ```
 
-🔗 API Routes
+### 🔗 API Routes
 
 📊 User Statistics
 
@@ -110,7 +110,7 @@ Parameters:
 
 · user (required) - User ID to fetch statistics for
 
-Example Response:
+### Example Response:
 
 ```json
 {
@@ -133,7 +133,7 @@ Example Response:
 
 </div>
 
-🩺 System Health
+### 🩺 System Health
 
 <div class="route-card">
 
@@ -141,13 +141,13 @@ GET /api/system/health
 
 Check API system status and performance metrics.
 
-Example Request:
+### Example Request:
 
 ```bash
 curl -X GET "https://sychox2006-telegram-user-api.vercel.app/api/system/health"
 ```
 
-Example Response:
+### Example Response:
 
 ```json
 {
@@ -163,7 +163,7 @@ Example Response:
 
 </div>
 
-👨‍💻 Creator Information
+### 👨‍💻 Creator Information
 
 <div class="route-card">
 
@@ -177,7 +177,7 @@ Example Request:
 curl -X GET "https://sychox2006-telegram-user-api.vercel.app/api/creator/info"
 ```
 
-Example Response:
+### Example Response:
 
 ```json
 {
@@ -197,9 +197,9 @@ Example Response:
 
 </div>
 
-💡 Usage Examples
+### 💡 Usage Examples
 
-JavaScript/Node.js
+### JavaScript/Node.js
 
 ```javascript
 class UltimateAPI {
@@ -264,7 +264,7 @@ api = UltimateAPI()
 user_stats = api.get_user_stats("5838583388")
 print(user_stats)
 ```
-### 🧤 PHP EXAMPLE
+### 🧤 Php Example
 
 ```php
 <?php
