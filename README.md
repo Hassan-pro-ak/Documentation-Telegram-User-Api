@@ -300,31 +300,24 @@ print_r($userStats);
 
 <div align="center">
 
-🆘 Need Help?
-
+🆘 **Need Help?**  
 We're here to help you succeed with our API!
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/telegram-app.png" width="60" alt="Telegram"/>
-      <br>
-      <strong>Telegram Support</strong>
-      <br>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/telegram-app.png" width="60" alt="Telegram"/><br>
+      <strong>Telegram Support</strong><br>
       <a href="https://t.me/Sychox2006">@Sychox2006</a>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/website.png" width="60" alt="Website"/>
-      <br>
-      <strong>Live Website</strong>
-      <br>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/website.png" width="60" alt="Website"/><br>
+      <strong>Live Website</strong><br>
       <a href="https://sychox2006-telegram-user-api.vercel.app">Visit Site</a>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="60" alt="API Docs"/>
-      <br>
-      <strong>API Documentation</strong>
-      <br>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="60" alt="API Docs"/><br>
+      <strong>API Documentation</strong><br>
       <a href="https://sychox2006-telegram-user-api.vercel.app">View Docs</a>
     </td>
   </tr>
@@ -332,23 +325,32 @@ We're here to help you succeed with our API!
 
 </div>
 
-📄 License```
+---
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](#license) file for details.
+
 ---
 
 <div align="center">
 
-🎯 Built with Passion by @Sychox2006
+🎯 **Built with Passion by [@Sychox2006](https://t.me/Sychox2006)**  
 
-https://img.shields.io/badge/Telegram-@Sychox2006-blue?style=for-the-badge&logo=telegram
-https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=vercel
+<br>
 
-If you find this project helpful, please give it a ⭐!
+![Telegram](https://img.shields.io/badge/Telegram-@Sychox2006-blue?style=for-the-badge&logo=telegram)
+![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=vercel)
+
+<br><br>
+
+⭐ **If you find this project helpful, please give it a star!**
 
 </div>
-```
-LICENSE
+
+---
+
+### LICENSE
 
 ```text
 MIT License
@@ -372,4 +374,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
