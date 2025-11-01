@@ -234,7 +234,7 @@ const userStats = await api.getUserStats('5838583388');
 console.log(userStats);
 ```
 
-Python
+### 🐍 Python Example 
 
 ```python
 import requests
@@ -264,7 +264,7 @@ api = UltimateAPI()
 user_stats = api.get_user_stats("5838583388")
 print(user_stats)
 ```
-PHP
+### 🧤 PHP EXAMPLE
 
 ```php
 <?php
