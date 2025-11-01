@@ -110,13 +110,6 @@ Parameters:
 
 · user (required) - User ID to fetch statistics for
 
-Example Request:
-
-```bash
-curl -X GET "https://sychox2006-telegram-user-api.vercel.app/api/user-details?user=5838583388" \
-  -H "Authorization: Bearer YOUR_JWT_TOKEN"
-```
-
 Example Response:
 
 ```json
@@ -339,7 +332,7 @@ We're here to help you succeed with our API!
 
 </div>
 
-```📄 License
+📄 License```
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 ---
